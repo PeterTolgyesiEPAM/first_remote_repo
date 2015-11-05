@@ -1,2 +1,6 @@
-New feature .
-new line
+<<<<<<< HEAD
+New feature.
+=======
+New feature.
+and a new branch
+>>>>>>> feature200
